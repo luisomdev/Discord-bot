@@ -2,5 +2,5 @@
 Bot discord 
 
 # Goals 
-  - Create login and register
-  - Create data base
+  - Connect bot in discord
+  - Send message X time the bot
